@@ -1,0 +1,1 @@
+# Predictive-Modeling-of-Thermal-Behavior-in-PMSM-using-Machine-Learning
